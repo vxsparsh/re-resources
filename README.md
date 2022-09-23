@@ -74,4 +74,10 @@ A Windows PE (Portable Executable) is a file format for executables, object code
 
 [Reverse Engineering Series - Slava Moskvin](https://www.youtube.com/watch?v=nLp3hr6Jf2M&list=PLDzElNZogx2tkCDJBzOmA6ParID2ogY36)
 
+[AXIAL](https://ax1al.com)
+
+[Tmpout Zines](https://tmpout.sh/1/)
+
+[Vx-Underground Papers](https://vx-underground.org)
+
 
