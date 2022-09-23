@@ -72,6 +72,8 @@ A Windows PE (Portable Executable) is a file format for executables, object code
 
 [Basics of x64 assembly with NASM - Undevs](https://un-devs.github.io/low-level-exploration/Trying-to-fit-that-x64-in-one/)
 
+[Assembly Language - D3v1L4L](https://d3v1lal.gitbook.io/assembly-language/)
+
 [Reverse Engineering Series - Slava Moskvin](https://www.youtube.com/watch?v=nLp3hr6Jf2M&list=PLDzElNZogx2tkCDJBzOmA6ParID2ogY36)
 
 [AXIAL](https://ax1al.com)
